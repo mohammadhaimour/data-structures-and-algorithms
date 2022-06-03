@@ -26,11 +26,10 @@ let starWarsPeople = [
 
 const sortStarWarsCharacters = (starWarsArr) => {
   // Solution code here...
-  let array = starWarsArr.sort((x, y) => {
-    return x.height - y.height;
-  }
-  );
-  return array;
+  let newarray = starWarsArr.sort((a, b) => {
+    return b.height - a.height;
+  });
+  return newarray;
 };
 
 /* ------------------------------------------------------------------------------------------------
