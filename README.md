@@ -24,3 +24,6 @@ To run your tests
 
 ___
 [Whiteboard  02](/javascript//Challenge_Class02/Challenge_Class02.md)
+
+[Binary Search](/javascript//Challenge_class03//binarySearch.md)
+
