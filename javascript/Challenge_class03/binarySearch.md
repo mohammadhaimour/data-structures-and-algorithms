@@ -10,6 +10,10 @@ ___
 
 ![image](./alorithim4.PNG)
 
+### Big O:
+ - Time = O(log n)
+ -  space = O(n)
+
 
 
 
