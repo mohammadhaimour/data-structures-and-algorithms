@@ -23,6 +23,9 @@ To run your tests
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
 
 ___
+[Whiteboard  01](/javascript/Challenge_Class01//chalenge01.md)
+
+
 [Whiteboard  02](/javascript//Challenge_Class02/Challenge_Class02.md)
 
 [Binary Search](/javascript//Challenge_class03//binarySearch.md)
