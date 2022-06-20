@@ -33,6 +33,8 @@ ___
 
 [Challenege_class07](/javascript/challenge_class07/challenge07.md)
 
+[Challenege_class08](/javascript/challenges_class08/challenge08.md)
+
 
 
 
