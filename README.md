@@ -38,6 +38,8 @@ ___
 
 [Challenege_class08](/javascript/challenges_class08/challenge08.md)
 
+[Challenege_class10](/javascript/CodeChallengeStack_Queue%20//read.md)
+
 
 
 
