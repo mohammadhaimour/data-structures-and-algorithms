@@ -37,14 +37,21 @@ class LinkedList {
 
 
     toString() {
-        let nodeInclud = this.head;
+        let currentNode = this.head;
         let string = "";
-        while (nodeInclud) {
-            string += nodeInclud.value + " -> ";
-            nodeInclud = nodeInclud.next;
+        while (currentNode) {
+            string += currentNode.value + " -> ";
+            currentNode = currentNode.next;
         }
         return string;
     }
 
 }
 module.exports = LinkedList;
+
+let l1 = new LinkedList();
+l1.Insert(1);
+l1.Insert(2);
+l1.Insert(3);
+console.log(l1.include(3));
+console.log(l1.toString());

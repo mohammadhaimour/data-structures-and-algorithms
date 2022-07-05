@@ -9,9 +9,6 @@ function validatebrackets(str) {
     }
     //console.log(arr2);
 
-
-
-
     let OpenRoundBrackets = 0;//(
     let ClosetRoundBrackets = 0;//)
 
