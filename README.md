@@ -24,35 +24,40 @@ To run your tests
 
 ___
 [Code Challenge: Class 01 : Whiteboard  01](/javascript/Challenge_Class01//chalenge01.md)
-
-
-[Code Challenge: Class 02 :Whiteboard  02](/javascript//Challenge_Class02/Challenge_Class02.md)
-
-[Binary Search](/javascript//Challenge_class03//binarySearch.md)
-
-[Code Challenge 05 Linked List Implementation](/javascript/linked-list1/LinkList.md)
-
-[Challenege_class06](/javascript/Challenge_class06/challenge06.md)
-
-[Challenege_class07](/javascript/challenge_class07/challenge07.md)
-
-[Challenege_class08](/javascript/challenges_class08/challenge08.md)
-
-[Challenege_class10](/javascript/CodeChallenge10Stack_Queue%20//read.md)
-
-[Challenege_class11](/javascript/code-challenge11-stack-queue-pseudo/ch11.md)
-
-
-[Challenege_class12](/javascript/Code_Challenge12_naimal_shelter/ch12.md)
-
-
-[Challenege_class13](/javascript/Code_Challenge_Class13/ch13.md)
-
-[Challenege_class15](/javascript/CodeChallengeClass15_16_tree/tree.md)
-
-[Challenege_class16](/javascript/CodeChallengeClass15_16_tree/ch16.md)
 ___
 
+[Code Challenge: Class 02 :Whiteboard  02](/javascript//Challenge_Class02/Challenge_Class02.md)
+___
+[Binary Search](/javascript//Challenge_class03//binarySearch.md)
+___
+
+[Code Challenge 05 Linked List Implementation](/javascript/linked-list1/LinkList.md)
+___
+[Challenege_class06](/javascript/Challenge_class06/challenge06.md)
+___
+[Challenege_class07](/javascript/challenge_class07/challenge07.md)
+___
+[Challenege_class08](/javascript/challenges_class08/challenge08.md)
+___
+[Challenege_class10](/javascript/CodeChallenge10Stack_Queue%20//read.md)
+___
+[Challenege_class11](/javascript/code-challenge11-stack-queue-pseudo/ch11.md)
+
+___
+[Challenege_class12](/javascript/Code_Challenge12_naimal_shelter/ch12.md)
+
+___
+[Challenege_class13](/javascript/Code_Challenge_Class13/ch13.md)
+___
+[Challenege_class15](/javascript/CodeChallengeClass15_16_17tree/tree.md)
+___
+[Challenege_class16](/javascript/CodeChallengeClass15_16_17tree/ch16.md)
+_____
+___
+[Challenege_class17](/javascript/CodeChallengeClass15_16_17tree/ch17.md)
+
+___
+___
 
 
 
