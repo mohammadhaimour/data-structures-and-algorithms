@@ -31,13 +31,13 @@ ___
 [Binary Search](/javascript//Challenge_class03//binarySearch.md)
 ___
 
-[Code Challenge 05 Linked List Implementation](/javascript/linked-list1/LinkList.md)
+[Code Challenge 05 Linked List Implementation](/javascript/linked-list/LinkList.md)
 ___
-[Challenege_class06](/javascript/Challenge_class06/challenge06.md)
+[Challenege_class06](/javascript/linked-list/challenge06.md)
 ___
-[Challenege_class07](/javascript/challenge_class07/challenge07.md)
+[Challenege_class07](/javascript/linked-list/challenge07.md)
 ___
-[Challenege_class08](/javascript/challenges_class08/challenge08.md)
+[Challenege_class08](/javascript/linked-list//challenge08.md)
 ___
 [Challenege_class10](/javascript/CodeChallenge10Stack_Queue%20//read.md)
 ___
