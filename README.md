@@ -64,6 +64,9 @@ ___
 ___
 [Challenege_class26](/javascript/CodeChallenge26/challenge26.md)
 
+___
+[Challenege_class27](/javascript/codeChallenge27/challenge27.md)
+
 
 
 
