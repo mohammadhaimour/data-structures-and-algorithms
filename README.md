@@ -69,6 +69,11 @@ ___
 
 ___
 [Challenege_class28](/javascript/CodeChallenge28//challeng28.md)
+___
+[Challenege_class30](./javascript/Code%20Challenge30%2B31/challenge30.md)
+
+___
+[Challenege_class31](./javascript/Code%20Challenge30%2B31/callenge31.md)
 
 
 
