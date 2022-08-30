@@ -74,6 +74,11 @@ ___
 
 ___
 [Challenege_class31](./javascript/Code%20Challenge30%2B31/callenge31.md)
+___
+[Challenege_class32](./javascript/Challeng32/challenge32.md)
+
+___
+[Challenege_class33](./javascript/challenge33/challeng33.md)
 
 
 
